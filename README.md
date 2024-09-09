@@ -1,4 +1,5 @@
-NFS Trade - Trade Course Platform
+**NFS Trade - Trade Course Platform**
+
 NFS Trade is an educational platform designed to offer comprehensive trade courses to aspiring traders. It provides users with a structured learning experience, enabling them to gain the skills needed to navigate financial markets effectively.
 
 Key Features
